@@ -6,7 +6,7 @@ This repository contains the data of the paper: ViVQA: Vietnamese Visual Questio
 
 ## Citation
 Please cite the following paper if you found it useful in your work.
-
+```
 @inproceedings{tran-etal-2021-vivqa-vietnamese,
     title = "{V}i{VQA}: {V}ietnamese Visual Question Answering",
     author = "Tran, Khanh Quoc  and
@@ -21,4 +21,5 @@ Please cite the following paper if you found it useful in your work.
     url = "https://aclanthology.org/2021.paclic-1.58",
     pages = "546--554",
 }
+```
 
