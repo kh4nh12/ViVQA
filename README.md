@@ -8,14 +8,14 @@ ViVQA is a new dataset for evaluating Vietnamese VQA models. The ViVQA dataset c
 
 ## Data Example
 
-<img width="740" alt="image" src="https://user-images.githubusercontent.com/62872625/153838233-7b2c032e-75c6-4985-a5c0-ac17ccecbcb1.png">
+<img width="694" alt="image" src="https://user-images.githubusercontent.com/62872625/153838333-ab65a7de-965a-4240-9e4d-471299fdba0a.png">
 
 
 ## Citation
 Please cite the following paper if you found it useful in your work.
 ```
 @inproceedings{tran-etal-2021-vivqa-vietnamese,
-    title = "{V}i{VQA}: {V}ietnamese Visual Question Answering",
+    title = "ViVQA: Vietnamese Visual Question Answering",
     author = "Tran, Khanh Quoc  and
       Nguyen, An Trong  and
       Le, An Tran-Hoai  and
