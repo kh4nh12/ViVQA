@@ -8,7 +8,7 @@ ViVQA is a new dataset for evaluating Vietnamese VQA models. The ViVQA dataset c
 
 ## Data Example
 
-<img width="694" alt="image" src="https://user-images.githubusercontent.com/62872625/153838333-ab65a7de-965a-4240-9e4d-471299fdba0a.png">
+<img width="629" alt="image" src="https://user-images.githubusercontent.com/62872625/153842388-a37658da-557f-4191-99cf-cfb9173e393d.png">
 
 
 ## Citation
