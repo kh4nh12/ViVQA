@@ -25,7 +25,7 @@ Please cite the following paper if you found it useful in your work.
     year = "2021",
     address = "Shanghai, China",
     publisher = "Association for Computational Lingustics",
-    url = "https://aclanthology.org/2021.paclic-1.58",
+    url = "https://aclanthology.org/2021.paclic-1.72/",
     pages = "546--554",
 }
 ```
