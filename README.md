@@ -2,7 +2,7 @@
 
 ## General Introduction
 This repository contains the data of the paper: [ViVQA: Vietnamese Visual Question Answering
-](https://aclanthology.org/2021.paclic-1.58.pdf)
+](https://aclanthology.org/2021.paclic-1.72/)
 
 ViVQA is a new dataset for evaluating Vietnamese VQA models. The ViVQA dataset consists of 10,328 images and 15,000 pairs of questions and answers in Vietnamese corresponding to the content of the images. We divide the dataset randomly into training and test sets with a ratio of 8:2.
 
